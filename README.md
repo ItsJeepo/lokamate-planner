@@ -6,5 +6,11 @@ LokaMate adalah aplikasi desktop berbasis kecerdasan buatan (AI) yang dirancang 
 * **Integrasi Informasi Perjalanan:** Menggabungkan pilihan destinasi, akomodasi, dan transportasi ke dalam satu platform.
 * **Estimasi Anggaran:** Membantu pengguna memperkirakan biaya perjalanan yang dibutuhkan.
 * **Personalisasi Berbasis AI:** Menyusun rencana perjalanan (itinerary) yang disesuaikan dengan kebutuhan dan preferensi pengguna.
+## 📄 Identitas Kelompok:
+Billy Norris Aritonang/25082010196/Captain
+Javier Athalla/25082010224/Hipster & Hacker
+Muhammad Fadhil Ivan Hidayat/25082010219/Hacker
+Aurelia Maria Priscila Hancu/25082010227/Hustler
 
 ![Banner LokaMate](Banner%20Loka%20Mate.jfif)
+
