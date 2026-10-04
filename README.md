@@ -1,1 +1,0 @@
-# Lokamate — Perencana Liburan Indonesia
