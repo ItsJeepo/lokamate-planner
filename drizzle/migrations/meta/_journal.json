@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1788788821816,
+      "tag": "0000_create_itineraries",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1792068309576,
+      "tag": "0001_import_lokamate_schema",
+      "breakpoints": true
+    }
+  ]
+}
